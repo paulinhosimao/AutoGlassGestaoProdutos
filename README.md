@@ -1,6 +1,7 @@
 # AutoGlassGestaoProdutos
 
-Desafio prático de Programação - Autoglass 
+Gestão de Produtos - Autoglass
+ 
 O que desenvolver?
 Você irá criar API para a gestão de produtos, com os seguintes recursos:
 •	Recuperar um registro por código;
@@ -21,10 +22,12 @@ Campos no escopo de produtos são
 •	Código do fornecedor
 •	Descrição do fornecedor
 •	CNPJ do fornecedor
+
 Requisitos
 Obrigatório
 •	Construir a Web-api em dotnet core ou dotnet 5.
 •	Construir a estrutura em camadas e em DDD.
+
 Diferenciais
 •	Utilizar ORM
 •	Utilizar a biblioteca Automapper para fazer o mapeamento entity-DTO.
